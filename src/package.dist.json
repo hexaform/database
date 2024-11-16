@@ -1,0 +1,21 @@
+{
+    "name": "@hexaform/database",
+    "version": "1.0.1",
+    "description": "Database module for Hexaform",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "git+ssh://git@github.com/hexaform/database.git"
+    },
+    "author": "Igor Stojadinović <mightytroll@gmail.com> (https://www.linkedin.com/in/igorstojadinovic/)",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/hexaform/database/issues"
+    },
+    "homepage": "https://github.com/hexaform/database#readme",
+    "peerDependencies": {
+        "@hexaform/container": "^1.1.0",
+        "@hexaform/logger": "^1.1.0",
+        "mongoose": "^6.8.0"
+    }
+}
